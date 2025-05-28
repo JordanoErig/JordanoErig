@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jordano Erig ✋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jordano.rodrigues.04@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:jordano.rodrigues.04@gmail.com)
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordano-e-r/)
 
 ![Jordano GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanoerig&show_icons=true&theme=tokyonight)
