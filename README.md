@@ -5,7 +5,6 @@
 
 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNISINOS | 🖥️ Aluno do curso de formação em Dev. Full-Stack Junior da +praTI 2025 | 👨‍💻 Interessado em Backend
 
-No momento estou aprendendo na faculdade POO em JAVA e Node.js no curso da +praTI.
 
 ![Jordano GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanoerig&show_icons=true&theme=tokyonight)
 
