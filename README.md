@@ -5,9 +5,6 @@
 
 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNISINOS | 🖥️ Atuo como Técnico de Informática N1 | 👨‍💻 Interessado em Backend
 
-
-![Jordano GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanoerig&show_icons=true&theme=tokyonight)
-
 ### Tecnologias que eu estudo no meu dia:
 
 <div style="display: inline_block"><br/>
